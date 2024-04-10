@@ -45,4 +45,3 @@ resource "aws_security_group" "web-sg" {
     cidr_blocks = ["1.2.3.4/32"]
   }
 }
-
